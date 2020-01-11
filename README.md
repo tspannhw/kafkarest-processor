@@ -1,7 +1,6 @@
-# NiFi Kafka Admin
+# NiFi Kafka REST Proxy 
 
 Feature:
 
-Create a Kafka topic
+Consume a kafka message
 
-Parameters:  Kafka Topic Name, Kafka Broker URL with port
